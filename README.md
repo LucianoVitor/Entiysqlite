@@ -1,0 +1,2 @@
+# Entiysqlite
+Aulas com sqlite.
